@@ -87,3 +87,7 @@ The phishing triage workflow was successfully imported, extended, and tested. Af
 | `1.png / 2.png` | ngrok terminal showing the webhook tunnel active and HTTP requests received |
 | `one_sample_incident_successfully_logged.png` | Google Sheets node output showing successfully mapped incident data |
 | `excel-logging.png` | Google Sheet showing the incident row logged with all fields populated |
+
+## Workflow Preview
+
+![Week 2 Workflow](screenshots/workflow.png)
